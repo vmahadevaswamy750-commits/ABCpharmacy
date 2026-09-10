@@ -1,0 +1,56 @@
+[
+  {
+    "Id": "3d35bac1-c708-4e96-8d69-f3eb4fc0ea72",
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Take one tablet every 6 hours after food",
+    "ExpiryDate": "2027-03-15T00:00:00",
+    "Quantity": 100,
+    "Price": 25.50,
+    "Brand": "Crocin"
+  },
+  {
+    "Id": "3efc4f81-b322-4f0f-876a-1ed2e50f94e6",
+    "FullName": "Amoxicillin 250mg Capsules",
+    "Notes": "Complete the full course even if symptoms improve",
+    "ExpiryDate": "2026-11-30T00:00:00",
+    "Quantity": 30,
+    "Price": 85.75,
+    "Brand": "Mox"
+  },
+  {
+    "Id": "56424b75-dfb7-406c-97bd-129fdd3ec4f0",
+    "FullName": "Cetirizine 10mg Tablets",
+    "Notes": "For allergy relief, may cause drowsiness",
+    "ExpiryDate": "2027-06-01T00:00:00",
+    "Quantity": 60,
+    "Price": 32.00,
+    "Brand": "Zyrtec"
+  },
+  {
+    "Id": "d88bccc8-f1e8-4edb-a687-637b5860dccb",
+    "FullName": "Vitamin D3 60000 IU",
+    "Notes": "Take once weekly on empty stomach",
+    "ExpiryDate": "2028-01-20T00:00:00",
+    "Quantity": 4,
+    "Price": 110.90,
+    "Brand": "Uprise D3"
+  },
+  {
+    "Id": "80e19f62-011a-4c88-af96-fd88f88230b0",
+    "FullName": "sdfdsgds",
+    "Notes": "sdgsdgds",
+    "ExpiryDate": "2026-09-10T00:00:00",
+    "Quantity": 1,
+    "Price": 10,
+    "Brand": "sfsdgdg"
+  },
+  {
+    "Id": "93101385-dac4-4911-8898-3b74ae6b3bda",
+    "FullName": "dsdsfds",
+    "Notes": "sdfsdf",
+    "ExpiryDate": "2026-09-29T00:00:00",
+    "Quantity": 2,
+    "Price": 20,
+    "Brand": "sdfdss"
+  }
+]
